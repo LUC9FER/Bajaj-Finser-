@@ -3,11 +3,11 @@ This repository contains the `.ipynb` file for the assginment given by Bajaj Fin
 Before running this project, you will need to concentrate on the following points:
 *    You will need `Jupyter Notebook`, `Visual Studio`, or `Google Collab` to run this project
 *    Before executing each code snippet, you need to download the below mentioned libraries:
-    o	NumPy
-    o	Pandas
-    o	Matplotlib
-    o	Seaborn
-    o	Kaggle
-    o	Scikit-Learn
-    o	XG Boost
+  *     NumPy
+  *     Pandas
+  *     Matplotlib
+  *     Seaborn
+  *     Kaggle
+  *     Scikit-Learn
+  *     XG Boost
 
